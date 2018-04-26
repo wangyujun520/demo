@@ -1,0 +1,9 @@
+方法一：
+git add .
+git commit -m "评论"
+git push -u origin master
+
+方法二：
+git add  文件名
+git commit -m '提交说明（必须填写）'
+git push 

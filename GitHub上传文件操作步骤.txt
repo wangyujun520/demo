@@ -1,0 +1,6 @@
+git init
+git remote add origin ÄãµÄµØÖ·
+git pull 
+git add . 
+git commit -m "ÆÀÂÛ"
+git push -u origin master
